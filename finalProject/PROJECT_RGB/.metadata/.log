@@ -1,0 +1,26 @@
+!SESSION 2024-11-19 10:07:44.216 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/yezhang/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/yezhang/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-19 10:07:47.898
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-19 10:08:05.567
+!MESSAGE Logback config file: /Users/yezhang/Documents/NEU/5200/PROJECT_RGB/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-11-19 10:15:50.625 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/yezhang/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/yezhang/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-19 10:15:53.507
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-19 10:16:26.971
+!MESSAGE Logback config file: /Users/yezhang/Documents/NEU/5200/PROJECT_RGB/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
