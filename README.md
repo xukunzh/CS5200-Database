@@ -10,8 +10,6 @@ This project implements a relational database system for an online role-playing 
 - **Server**: Apache Tomcat  
 - **Tools**: MySQL Workbench, IntelliJ IDEA, Lucidchart  
 
----
-
 ## Features  
 - **Scalable Relational Database**:  
   - Designed for complex relationships between players, characters, items, and jobs.  
@@ -21,8 +19,6 @@ This project implements a relational database system for an online role-playing 
   - Provided user-friendly interaction through JSP for filtering, viewing, and updating data.  
 - **Modular Java Design**:  
   - Decoupled logic for scalability and maintainability.  
-
----
 
 ## Project Milestones  
 
@@ -52,8 +48,6 @@ This project implements a relational database system for an online role-playing 
   - User-friendly update operations for editable attributes.  
 - Integrated backend operations with the frontend, demonstrating seamless interaction between Java and MySQL.  
 
----
-
 ## How to Run  
 
 1. **Database Setup**:  
@@ -65,8 +59,6 @@ This project implements a relational database system for an online role-playing 
 
 3. **Access the Application**:  
    - Navigate to `http://localhost:3306` in your browser.  
-
----
 
 ## Highlights  
 This project showcases proficiency in:  
